@@ -1,0 +1,7 @@
+echo "# Coral_Classification_and_Prediction" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nuhayd12/Coral_Classification_and_Prediction.git
+git push -u origin main
